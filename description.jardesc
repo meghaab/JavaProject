@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="E:/Rakuten/RakutenRestClientDemo.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/RakutenRestClientDemo/description.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="true" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=RakutenRestClientDemo/src&lt;com.rakuten.rest.client{RestClientMain.java[RestClientMain" manifestLocation="/RakutenRestClientDemo/MANIFEST" manifestVersion="1.0" reuseManifest="false" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
+        <folder path="/RakutenRestClientDemo/lib"/>
+        <file path="/RakutenRestClientDemo/MANIFEST"/>
+        <javaElement handleIdentifier="=RakutenRestClientDemo/src"/>
+        <file path="/RakutenRestClientDemo/.project"/>
+        <file path="/RakutenRestClientDemo/.classpath"/>
+    </selectedElements>
+</jardesc>
